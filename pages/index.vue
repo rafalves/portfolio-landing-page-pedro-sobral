@@ -65,10 +65,6 @@ function validateName(value: unknown): string | boolean {
   return 'Nome obrigatório'
 }
 
-definePageMeta({
-  middleware: ['validate-routes'],
-})
-
 useHead({
   title: 'Pedro Sobral - O desafio do gestor de tráfego',
   meta: [
