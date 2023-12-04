@@ -69,6 +69,8 @@ useHead({
   title: 'Pedro Sobral - O desafio do gestor de tráfego',
   meta: [
     { name: 'description', content: 'Conheça o método de tráfego pago que mais gerou resultados no Brasil e ganhe dinheiro fazendo anúncios online para o próprio negócio ou para o de outras pessoas.' },
+    { property: 'og:title', content: 'Pedro Sobral - O desafio do gestor de tráfego' },
+    { property: 'og:image', content: '/img/sobralSobre.webp' },
   ],
 })
 </script>

@@ -30,6 +30,8 @@ useHead({
   title: 'Obrigado - Pedro Sobral',
   meta: [
     { name: 'description', content: 'Conheça o método de tráfego pago que mais gerou resultados no Brasil e ganhe dinheiro fazendo anúncios online para o próprio negócio ou para o de outras pessoas.' },
+    { property: 'og:title', content: 'Obrigado - Pedro Sobral' },
+    { property: 'og:image', content: '/img/sobralSobre.webp' },
   ],
 })
 </script>
