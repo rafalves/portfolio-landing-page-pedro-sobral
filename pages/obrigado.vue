@@ -22,10 +22,6 @@ onMounted(() => {
   animatedElements.value.forEach(el => el && observer.observe(el))
 })
 
-definePageMeta({
-  middleware: 'validate-routes',
-})
-
 useHead({
   title: 'Obrigado - Pedro Sobral',
   meta: [
