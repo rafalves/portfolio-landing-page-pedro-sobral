@@ -119,7 +119,7 @@ useHead({
         <p class="text-slate-500 text-base">
           Site criado para fins de estudo.
         </p>
-        <img class="w-12" src="/img/DGT Footer.jpg" alt="DGT logo">
+        <img class="w-12" src="/img/footer.jpg" alt="DGT logo">
         <p class="text-slate-100 text-base">
           Política de Privacidade
         </p>
